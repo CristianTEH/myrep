@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Cristi_MyModule>
+            <version>0.1.0</version>
+        </Cristi_MyModule>
+    </modules>
+    <global>
+        <blocks>
+            <Cristi_MyModule>
+                <class>Cristi_MyModule_Block</class>
+            </Cristi_MyModule>
+        </blocks>
+    </global>
+</config>
